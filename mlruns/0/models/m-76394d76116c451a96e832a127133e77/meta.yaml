@@ -1,0 +1,10 @@
+artifact_location: file:///home/roushan/Udemy/Network_Security/mlruns/0/models/m-76394d76116c451a96e832a127133e77/artifacts
+creation_timestamp: 1750068933860
+experiment_id: '0'
+last_updated_timestamp: 1750068938745
+model_id: m-76394d76116c451a96e832a127133e77
+model_type: null
+name: model
+source_run_id: 931bdec1104141d289e57e48141df7e2
+status: 2
+status_message: null

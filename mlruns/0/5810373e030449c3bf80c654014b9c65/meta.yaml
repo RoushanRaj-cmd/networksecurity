@@ -1,0 +1,14 @@
+artifact_uri: file:///home/roushan/Udemy/Network_Security/mlruns/0/5810373e030449c3bf80c654014b9c65/artifacts
+end_time: 1750068942921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5810373e030449c3bf80c654014b9c65
+run_name: polite-finch-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750068938922
+status: 3
+tags: []
+user_id: roushan
